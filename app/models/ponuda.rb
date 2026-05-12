@@ -1,0 +1,2 @@
+class Ponuda < ApplicationRecord
+end
